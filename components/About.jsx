@@ -32,7 +32,7 @@ const About = () => {
             </p>
             <div className="flex items-center mt-8">
               <Link
-                href="https://www.youtube.com/channel/UCXxCoC34zsVObU81bDYExDQ"
+                href="https://www.youtube.com/@sahryahmd5482"
                 className=" mr-3 justify-center items-center text-slate-400 rounded-full shadow-gray-400 p-3 cursor-pointer hover:scale-105 hover:border-[#FF7629] hover:bg-[#FF7629] hover:text-white ease-in duration-300"
               >
                 <ImYoutube size={30} />
@@ -44,7 +44,7 @@ const About = () => {
                 <ImInstagram size={30} />
               </Link>
               <Link
-                href="https://www.twitter.com/sahryahmd"
+                href="https://www.twitter.com/sahry_ahmd"
                 className=" mr-3 justify-center items-center text-slate-400 rounded-full shadow-gray-400 p-3 cursor-pointer hover:scale-105 hover:border-[#FF7629] hover:bg-[#FF7629] hover:text-white ease-in duration-300"
               >
                 <ImTwitter size={30} />
