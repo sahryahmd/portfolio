@@ -42,16 +42,24 @@ const Footer = () => {
           <div>
             <div className="flex items-center justify-center mb-5">
               <div className=" mr-3 justify-center items-center text-slate-400 rounded-full shadow-gray-400 p-3 cursor-pointer hover:scale-105 hover:border-[#FF7629] hover:bg-[#FF7629] hover:text-white ease-in duration-300">
-                <ImYoutube size={30} />
+                <Link href={"https://www.youtube.com/@sahryahmd5482"}>
+                  <ImYoutube size={30} />
+                </Link>
               </div>
               <div className=" mr-3 justify-center items-center text-slate-400 rounded-full shadow-gray-400 p-3 cursor-pointer hover:scale-105 hover:border-[#FF7629] hover:bg-[#FF7629] hover:text-white ease-in duration-300">
-                <ImInstagram size={30} />
+                <Link href={"https://www.instagram.com/sahryahmd"}>
+                  <ImInstagram size={30} />
+                </Link>
               </div>
               <div className=" mr-3 justify-center items-center text-slate-400 rounded-full shadow-gray-400 p-3 cursor-pointer hover:scale-105 hover:border-[#FF7629] hover:bg-[#FF7629] hover:text-white ease-in duration-300">
-                <ImTwitter size={30} />
+                <Link href={"https://twitter.com/sahry_ahmd"}>
+                  <ImTwitter size={30} />
+                </Link>
               </div>
               <div className=" mr-3 justify-center items-center text-slate-400 rounded-full shadow-gray-400 p-3 cursor-pointer hover:scale-105 hover:border-[#FF7629] hover:bg-[#FF7629] hover:text-white ease-in duration-300">
-                <ImGithub size={30} />
+                <Link href={"https://github/sahryahmd"}>
+                  <ImGithub size={30} />
+                </Link>
               </div>
             </div>
             <p className="font-medium text-sm text-slate-400 text-center">

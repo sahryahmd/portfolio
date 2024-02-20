@@ -29,7 +29,7 @@ const Main = () => {
           <div className="w-full self-end px-4 lg:w-1/2">
             <div className="mt-10 relative ">
               <Image
-                src="/../public/assets/profile-picture.png"
+                src="/assets/profile-picture.png"
                 alt="foto-profil"
                 width={300}
                 height={300}

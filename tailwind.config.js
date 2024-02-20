@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     container: {
       center: true,
-      padding: "100px",
+      padding: "24px",
     },
     extend: {
       backgroundImage: {
@@ -21,5 +21,6 @@ module.exports = {
       },
     },
   },
+
   plugins: [],
-};
+}

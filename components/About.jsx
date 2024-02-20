@@ -6,7 +6,7 @@ import Link from "next/link";
 
 const About = () => {
   return (
-    <div id="about" className="pt-36 pb-36 bg-[#1D1C1C]">
+    <div id="about" className="pt-36 pb-36 bg-[#1D1C1C] w-full">
       <div className="container">
         <div className="flex flex-wrap">
           <div className="w-full px-4 mb-10 lg:w-1/2">
@@ -14,7 +14,7 @@ const About = () => {
               About Me
             </h1>
             <Image
-              src="/../public/assets/about.jpg"
+              src="/assets/about.jpg"
               alt="about"
               width={300}
               height={300}

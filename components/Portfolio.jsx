@@ -22,7 +22,7 @@ const Portfolio = () => {
           <div className="mb-12 p-4 md:w-1/2">
             <div className="rounded-md shadow-md overflow-hidden">
               <Image
-                src="/../public/assets/projects/Capture 3.JPG"
+                src="/assets/projects/Capture 3.JPG"
                 alt="spotify"
                 width={600}
                 height={300}
@@ -43,7 +43,7 @@ const Portfolio = () => {
           <div className="mb-12 p-4 md:w-1/2">
             <div className="rounded-md shadow-md overflow-hidden">
               <Image
-                src="/../public/assets/projects/promptopia.JPG"
+                src="/assets/projects/promptopia.JPG"
                 alt="promptopia"
                 width={600}
                 height={300}
@@ -63,7 +63,7 @@ const Portfolio = () => {
           <div className="mb-12 p-4 md:w-1/2">
             <div className="rounded-md shadow-md overflow-hidden">
               <Image
-                src="/../public/assets/projects/Capture 2.JPG"
+                src="/assets/projects/Capture 2.JPG"
                 alt="netlix-clone"
                 width={600}
                 height={300}
@@ -84,7 +84,7 @@ const Portfolio = () => {
           <div className="mb-12 p-4 md:w-1/2">
             <div className="rounded-md shadow-md overflow-hidden">
               <Image
-                src="/../public/assets/projects/hoobank.JPG"
+                src="/assets/projects/hoobank.JPG"
                 alt="promptopia"
                 width={600}
                 height={300}
